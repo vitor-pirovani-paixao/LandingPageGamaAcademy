@@ -8,3 +8,5 @@ Conteúdo:
 -Cadastre seu e-mail para receber promoções; 
 
 -Dados no localstorage.
+
+-Site hospedado em https://infallible-williams-eb35ef.netlify.app/
